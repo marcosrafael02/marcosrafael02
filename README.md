@@ -12,8 +12,8 @@ Me chamo Marcos Rafael, atualmente estou estudando para me formar um desenvolved
 <br>
 
 <p>Entre em contato comigo: </p>
-<a href="https://www.linkedin.com/in/marcos-rafael-19a053256/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="icon-linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/marcosrafaeell/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="icon-instagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marcos-rafael-19a053256/" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="icon-linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/marcosrafaeell/" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="icon-instagram" height="30" width="40" /></a>
   
 <br>
 <br>
