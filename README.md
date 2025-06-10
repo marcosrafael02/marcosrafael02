@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Me chamo Marcos Rafael, atualmente estou estudando para me formar um desenvolvedor fullsatckestou aprendendo e criando projetos com:
+Me chamo Marcos Rafael, atualmente estou estudando para me formar um desenvolvedor fullstack, estou aprendendo e criando projetos com:
 <br>
 <br>
 - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"
